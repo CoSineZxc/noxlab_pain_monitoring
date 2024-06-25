@@ -1,0 +1,3 @@
++ D1D2_downsampledata.pkl
+
+This dataset includes ratings from Day 1 and Day 2, with each row representing a single participant. The dataset provides participant's rating, time, prediction, and confidence for both days. Each rating and timelist corresponds to three or more sessions. Participants attend three sessions each day, but if there are significant time gaps (more than 10 seconds) within a session, the rating is split into two sessions. Currently, the sampling rate for the ratings is 40 Hz. If a rating and timelist is an empty list, it indicates that the participant did not attend the experiment on that particular day. A prediction and confidence value of -1 signifies that the participant did not make a prediction for the following day.

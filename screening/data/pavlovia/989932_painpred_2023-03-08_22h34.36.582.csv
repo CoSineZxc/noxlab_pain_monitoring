@@ -1,0 +1,4 @@
+﻿participant,session,date,expName,psychopyVersion,OS,frameRate,trials_attn_trial_1.thisRepN,trials_attn_trial_1.thisTrialN,trials_attn_trial_1.thisN,trials_attn_trial_1.thisIndex,trials_attn_trial_1.ran,trials_cont_trial_run.thisRepN,trials_cont_trial_run.thisTrialN,trials_cont_trial_run.thisN,trials_cont_trial_run.thisIndex,trials_cont_trial_run.ran
+989932,001,2023-03-08_22h34.36.582,painpred,2022.2.4,Win32,60.15037594,,,,,,,,,,
+989932,001,2023-03-08_22h34.36.582,painpred,2022.2.4,Win32,60.15037594,0,0,0,0,1,,,,,
+989932,001,2023-03-08_22h34.36.582,painpred,2022.2.4,Win32,60.15037594,,,,,,0,0,0,0,1

@@ -1,0 +1,10 @@
+﻿participant,session,date,expName,psychopyVersion,OS,frameRate,trials_attn_trial_1.thisRepN,trials_attn_trial_1.thisTrialN,trials_attn_trial_1.thisN,trials_attn_trial_1.thisIndex,trials_attn_trial_1.ran,trials_cont_trial_run.thisRepN,trials_cont_trial_run.thisTrialN,trials_cont_trial_run.thisN,trials_cont_trial_run.thisIndex,trials_cont_trial_run.ran,trials_redirect_trial_2.thisRepN,trials_redirect_trial_2.thisTrialN,trials_redirect_trial_2.thisN,trials_redirect_trial_2.thisIndex,trials_redirect_trial_2.ran,trials_attn_trial_2.thisRepN,trials_attn_trial_2.thisTrialN,trials_attn_trial_2.thisN,trials_attn_trial_2.thisIndex,trials_attn_trial_2.ran,trials_cont_trial_run_2.thisRepN,trials_cont_trial_run_2.thisTrialN,trials_cont_trial_run_2.thisN,trials_cont_trial_run_2.thisIndex,trials_cont_trial_run_2.ran,trials_cont_trial_run_3.thisRepN,trials_cont_trial_run_3.thisTrialN,trials_cont_trial_run_3.thisN,trials_cont_trial_run_3.thisIndex,trials_cont_trial_run_3.ran,trials_question.thisRepN,trials_question.thisTrialN,trials_question.thisN,trials_question.thisIndex,trials_question.ran
+586349,001,03-08-2023_13h58.29.474,painpred,2022.2.4,Linux armv8l,30.04988281,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+586349,001,03-08-2023_13h58.29.474,painpred,2022.2.4,Linux armv8l,30.04988281,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+586349,001,03-08-2023_13h58.29.474,painpred,2022.2.4,Linux armv8l,30.04988281,,,,,,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,
+586349,001,03-08-2023_13h58.29.474,painpred,2022.2.4,Linux armv8l,30.04988281,,,,,,,,,,,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,
+586349,001,03-08-2023_13h58.29.474,painpred,2022.2.4,Linux armv8l,30.04988281,,,,,,,,,,,,,,,,0,0,0,0,1,,,,,,,,,,,,,,,
+586349,001,03-08-2023_13h58.29.474,painpred,2022.2.4,Linux armv8l,30.04988281,,,,,,,,,,,0,0,0,0,1,,,,,,,,,,,,,,,,,,,,
+586349,001,03-08-2023_13h58.29.474,painpred,2022.2.4,Linux armv8l,30.04988281,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,,,,,,,,,,
+586349,001,03-08-2023_13h58.29.474,painpred,2022.2.4,Linux armv8l,30.04988281,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,,,,,
+586349,001,03-08-2023_13h58.29.474,painpred,2022.2.4,Linux armv8l,30.04988281,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1

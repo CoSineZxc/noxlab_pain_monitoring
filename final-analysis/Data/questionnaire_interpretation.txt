@@ -1,0 +1,41 @@
+Basic Pain Inventory
+
+1. Pain Severity
+- mean severity score
+- worst and average have also been used singly
+- BPI developers recommend all 4 to be used
+
+2. Pain Interference
+- mean of the 7 interference items
+
+STarT
+
+1. Total Score
+- 3 or less: low risk
+
+2. Sub score
+- Q5-9 only
+- < 3: medium risk
+- > 4: High risk
+
+PCS
+- total score > 30 is significant
+
+1. Rumination (8, 9, 10, 11)
+2. Magnification (6, 7, 13)
+3. Helplessness (1, 2, 3, 4, 5, 12)
+
+GAD7
+0-4: Minimal anxiety
+5-9: Mild anxiety
+10-14: Moderate anxiety
+> 15: Severe anxiety
+- >8 is a reasonable cut point for identifying probable cases of GAD
+
+PHQ-9
+0-4: none-minimal
+5-9: mild
+10-14: moderate
+15-19: moderately severe
+20-27: severe
+- Q9 is used singly to access suicidal risk

@@ -1,0 +1,1 @@
+## install/update python, how to solve command which need "sudo" 

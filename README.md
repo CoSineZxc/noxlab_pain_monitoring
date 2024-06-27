@@ -1,6 +1,7 @@
-# Online pain monitoring study
+# Temporal Patterns and Clinical Correlation in Continuous Pain Ratings
 We aim to characterize how back pain fluctuates over the scale of a few minutes by designing a continuous pain-tracking task for patients with chronic back pain. The pain tracking task involves the continuous rating of perceived intensity and a sparse sampling of pain predictions and confidence levels. The project can potentially help to better phenotype patients, which could be treated with a precision medicine approach and shed light on how to improve the quality of life of patients. The task we develop also has the potential to be incorporated into NHS digital healthcare in the future.
 
+## 🎯Updates
 Pilot study 1: 28th January 2023
 
 Pilot study 2: 03rd Feb 2023
@@ -10,7 +11,7 @@ Pilot study 3a, 3b: 11th Feb 2023
 Pilot study 3c, 3d: 12th Feb 2023
 
 
-## How to run the python analysis pipeline
+## 🏃Running the Python Pipeline
 In each folder, there is a ```Data``` folder and a ```Code``` Folder. The ```Data``` Folder contains the ```.csv``` files in the study batch while the ```Code``` Folder consists of a Jupyter Notebook that performs <strong>Descriptive Analysis</stsrong> on the data. 
 
 Packages needed: NumPy, Matplotlib, Pandas, SciPy, ordPy, statsmodels.api, os
@@ -23,7 +24,7 @@ After this, preprocessing (window and low pass filter) will be applied
 
 Other analysis functions and will also be applied after this.
 
-## The purpose of each folder
+## 👩‍💻Purpose of each folder
 + screening:
     Plot the distribution of scores in MSK-HQ for all screened participants. 
 + pilot-analysis-1~5:

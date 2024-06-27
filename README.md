@@ -1,6 +1,9 @@
 # Temporal Patterns and Clinical Correlation in Continuous Pain Ratings
 We aim to characterize how back pain fluctuates over the scale of a few minutes by designing a continuous pain-tracking task for patients with chronic back pain. The pain tracking task involves the continuous rating of perceived intensity and a sparse sampling of pain predictions and confidence levels. The project can potentially help to better phenotype patients, which could be treated with a precision medicine approach and shed light on how to improve the quality of life of patients. The task we develop also has the potential to be incorporated into NHS digital healthcare in the future.
 
+<img width="651" alt="image" src="https://github.com/CoSineZxc/noxlab_pain_monitoring/blob/main/SAX_page-0001.jpg">
+Figure 1: Data Compression and Downsampling Process. A: original pain rating; B: PAA representation; C: SAX symbols series; D: downsampled SAX series
+
 ## 🎯Updates
 Pilot study 1: 28th January 2023
 

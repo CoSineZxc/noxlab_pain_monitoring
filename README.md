@@ -32,10 +32,9 @@ Other analysis functions and will also be applied after this.
     Plot the distribution of scores in MSK-HQ for all screened participants. 
 + pilot-analysis-1~5:
     Before the pain monitoring experiment, we designed 5 versions of the experiment. 
-+ actual-analysis-first-10:
-    After all of the pilot version, we tried the final Pain Monitoring in 10 participants.
-+ actual-analysis-first~second:
-    During the pain monitoring experiment, we use these script for data quality check and exclude participants
++ analysis
+  + actual-analysis-first-10: After all of the pilot version, we tried the final Pain Monitoring in 10 participants.
+  + actual-analysis-first~second: During the pain monitoring experiment, we use these script for data quality check and exclude participants
 + data_preprocess_xz:
     After data collection, here is the final script for data preprocessing
 + data_analysis_xz:
